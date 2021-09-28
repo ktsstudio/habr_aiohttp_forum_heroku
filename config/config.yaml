@@ -1,0 +1,4 @@
+common:
+  port: 8080 # порт, на котором будет запускаться наше приложение
+postgres:
+  database_url: postgres://forum_user:forum_password@localhost/forum
